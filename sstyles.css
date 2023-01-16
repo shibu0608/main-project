@@ -1,0 +1,18 @@
+.calculator-container{
+
+}
+h1
+{  background-color: powderblue;
+  display: inline-block;
+  width: 350px;
+}
+.calculator-container
+{
+  width :500px;
+  height: 300px;
+  background-color: yellow;
+}
+script{
+  background-color: blue;
+}
+
